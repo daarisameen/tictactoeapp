@@ -4,14 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FEFEFF"
+    android:background="#FFEB3B"
     tools:context=".easy">
+
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
+
         android:layout_below="@+id/playerchance"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
         android:layout_gravity="center"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="74dp"
         android:padding="70dp">
 
         <TableRow android:background="#D6E6EA">
@@ -20,8 +26,8 @@
                 android:id="@+id/b00"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -32,9 +38,9 @@
                 android:id="@+id/b01"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
                 android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -44,8 +50,8 @@
                 android:id="@+id/b02"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
+                android:layout_marginBottom="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -60,9 +66,9 @@
                 android:id="@+id/b10"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -72,10 +78,10 @@
                 android:id="@+id/b11"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -85,9 +91,9 @@
                 android:id="@+id/b12"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
                 android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -102,8 +108,8 @@
                 android:id="@+id/b20"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
+                android:layout_marginRight="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -114,8 +120,8 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="1dp"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
+                android:layout_marginRight="1dp"
                 android:layout_weight="1"
                 android:background="#FEFEFF"
                 android:fontFamily="@font/arielround"
@@ -134,13 +140,14 @@
         </TableRow>
 
     </TableLayout>
+
     <TextView
         android:id="@+id/playerchance"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="30dp"
+        android:layout_marginStart="60dp"
         android:layout_marginTop="52dp"
         android:fontFamily="@font/arielround"
         android:text="0 wins"
@@ -205,9 +212,9 @@
         android:layout_marginBottom="-52dp"
         android:layout_marginStart="50dp"
         android:fontFamily="@font/arielround"
-        android:text="X"
-        android:textColor="#3A98D4"
-        android:textSize="28sp" />
+        android:text="Player 1"
+        android:textColor="#F44336"
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/textView3"
@@ -215,10 +222,10 @@
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/textView2"
         android:layout_centerHorizontal="true"
-        android:text="O"
+        android:text="CPU"
         android:fontFamily="@font/arielround"
-        android:textColor="#79CADC"
-        android:textSize="28sp" />
+        android:textColor="#3F51B5"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/button"

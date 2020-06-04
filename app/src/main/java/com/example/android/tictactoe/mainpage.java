@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
@@ -19,6 +20,8 @@ public class mainpage extends AppCompatActivity implements View.OnClickListener{
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mainpage);
+
+
         human = (Button) findViewById(R.id.playwithhuman);
         computer = (Button) findViewById(R.id.playwithcomputer);
         easy = (Button) findViewById(R.id.easycomputer);
@@ -29,6 +32,8 @@ public class mainpage extends AppCompatActivity implements View.OnClickListener{
         easy.setOnClickListener(this);
         normal.setOnClickListener(this);
         hardcore.setOnClickListener(this);
+
+
     }
     @Override
     public void onClick(View v)
@@ -41,7 +46,7 @@ public class mainpage extends AppCompatActivity implements View.OnClickListener{
                 break;
             case R.id.playwithcomputer:
                 easy.setVisibility(View.VISIBLE);
-                normal.setVisibility(View.VISIBLE);
+        //        normal.setVisibility(View.VISIBLE);
                 hardcore.setVisibility(View.VISIBLE);
                 break;
             case R.id.easycomputer:

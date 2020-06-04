@@ -10,24 +10,26 @@
         android:targetSdkVersion="27" />
 
     <application
-        android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:noHistory="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.android.tictactoe.mainpage" >
+        </activity>
+        <activity android:name="com.example.android.tictactoe.easy" />
+        <activity android:name="com.example.android.tictactoe.hardcore" />
+        <activity android:name="com.example.android.tictactoe.normal" />
+        <activity android:name="com.example.android.tictactoe.human" />
+        <activity android:name="com.example.android.tictactoe.splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.android.tictactoe.easy" />
-        <activity android:name="com.example.android.tictactoe.hardcore" />
-        <activity android:name="com.example.android.tictactoe.normal" />
-        <activity android:name="com.example.android.tictactoe.human" />
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-#Fri Jul 20 19:24:59 IST 2018
-base.0=D\:\\Projects\\AndroidStudioProjects\\TicTacToe2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+#Wed Jun 03 00:19:26 IST 2020
+base.0=C\:\\Users\\DAARIS AMEEN\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

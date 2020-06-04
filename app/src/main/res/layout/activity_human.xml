@@ -4,15 +4,39 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FEFEFF"
+    android:background="#FFEB3B"
     tools:context=".human">
+
+    <TextView
+        android:id="@+id/tv_declare"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginBottom="64dp"
+        android:text=" Let's see who wins."
+        android:textAlignment="center"
+        android:textColor="#DC400F"
+        android:textSize="25sp"
+        android:textStyle="bold"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.733"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
+        android:layout_height="358dp"
         android:layout_below="@+id/playerchance"
+        android:layout_alignParentStart="true"
         android:layout_gravity="center"
-        android:padding="70dp">
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="135dp"
+        android:padding="40dp">
 
         <TableRow android:background="#D6E6EA">
 
@@ -20,10 +44,10 @@
                 android:id="@+id/b00"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginRight="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:padding="1dp"
                 android:textSize="60sp" />
@@ -32,11 +56,11 @@
                 android:id="@+id/b01"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
                 android:layout_marginRight="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
 
@@ -44,10 +68,10 @@
                 android:id="@+id/b02"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="2"
+                android:background="#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
         </TableRow>
@@ -60,11 +84,11 @@
                 android:id="@+id/b10"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
 
@@ -72,12 +96,12 @@
                 android:id="@+id/b11"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
 
@@ -85,11 +109,11 @@
                 android:id="@+id/b12"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="1dp"
                 android:layout_marginLeft="1dp"
                 android:layout_marginTop="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
         </TableRow>
@@ -102,10 +126,10 @@
                 android:id="@+id/b20"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginRight="1dp"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
 
@@ -114,10 +138,10 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="1dp"
-                android:layout_marginRight="1dp"
                 android:layout_marginTop="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_marginRight="1dp"
+                android:layout_weight="2"
+                android:background="#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
 
@@ -127,8 +151,8 @@
                 android:layout_height="match_parent"
                 android:layout_marginLeft="1dp"
                 android:layout_marginTop="1dp"
-                android:layout_weight="1"
-                android:background="#FEFEFF"
+                android:layout_weight="2"
+                android:background="	#000000"
                 android:fontFamily="@font/arielround"
                 android:textSize="60sp" />
         </TableRow>
@@ -141,8 +165,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="52dp"
+        android:layout_marginStart="178dp"
+        android:layout_marginTop="18dp"
         android:fontFamily="@font/arielround"
         android:text="0 wins"
         android:textColor="#3A98D4"
@@ -153,8 +177,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/playerchance"
-        android:fontFamily="@font/arielround"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:fontFamily="@font/arielround"
         android:text="0 wins"
         android:textColor="#79CADC"
         android:textSize="18sp"
@@ -190,36 +215,39 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/playerchance"
         android:layout_alignParentEnd="true"
-        android:layout_marginEnd="30dp"
-        android:text="0 draws"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="-22dp"
         android:fontFamily="@font/arielround"
+        android:text="0 draws"
         android:textColor="#4A6884"
-        android:textSize="18sp"
-        />
+        android:textSize="18sp" />
 
-    <TextView
+    <EditText
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/playerchance"
         android:layout_alignParentStart="true"
         android:layout_marginBottom="-52dp"
-        android:layout_marginStart="50dp"
+        android:layout_marginStart="0dp"
         android:fontFamily="@font/arielround"
-        android:text="X"
-        android:textColor="#3A98D4"
-        android:textSize="28sp" />
+        android:hint="P1 name"
+        android:textColorHint="#EA2213"
+        android:textColor="#12DD1B"
+        android:textSize="20sp" />
 
-    <TextView
+    <EditText
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/textView2"
-        android:layout_centerHorizontal="true"
-        android:text="O"
+        android:layout_marginTop="47dp"
         android:fontFamily="@font/arielround"
-        android:textColor="#79CADC"
-        android:textSize="28sp" />
+
+        android:hint="P2 name"
+        android:textColor="#15E61E"
+        android:textColorHint="#3F51B5"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/button"
@@ -230,6 +258,29 @@
         android:layout_marginEnd="19dp"
         android:background="@color/darkcolor"
         android:text="Back" />
+
+    <Button
+        android:id="@+id/button4"
+
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="500dp"
+        android:layout_marginBottom="64dp"
+
+        android:text="Leaderboard"
+        android:textAlignment="center"
+        android:textColor="#DC400F"
+        android:textSize="25sp"
+
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.733"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
 
 
 </RelativeLayout>

@@ -2,6 +2,7 @@ package com.example.android.tictactoe;
 
 import android.content.Intent;
 import android.graphics.Color;
+import android.media.MediaPlayer;
 import android.nfc.Tag;
 import android.os.Build;
 import android.support.annotation.RequiresApi;
@@ -35,6 +36,9 @@ public class easy extends AppCompatActivity implements View.OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_easy);
+
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.win);
+
         textViewPlayer1 = (TextView) findViewById(R.id.playerchance);
         chance = (TextView) findViewById(R.id.chancesetter);
         textViewPlayer2 = (TextView) findViewById(R.id.winview);
@@ -219,6 +223,11 @@ public class easy extends AppCompatActivity implements View.OnClickListener{
     private void player1Wins() {
         player1Points++;
         Toast.makeText(this, "Player 1 wins!", Toast.LENGTH_SHORT).show();
+
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.win);
+        catSoundMediaPlayer.start();
+
+
         updatePointsText();
         resetBoard();
     }
@@ -226,6 +235,8 @@ public class easy extends AppCompatActivity implements View.OnClickListener{
     private void player2Wins() {
         player2Points++;
         Toast.makeText(this, "Computer wins!", Toast.LENGTH_SHORT).show();
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.lose);
+        catSoundMediaPlayer.start();
         updatePointsText();
         resetBoard();
     }
@@ -233,6 +244,9 @@ public class easy extends AppCompatActivity implements View.OnClickListener{
     private void draw() {
         draw++;
         Toast.makeText(this, "Draw!", Toast.LENGTH_SHORT).show();
+
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.draw);
+        catSoundMediaPlayer.start();
         updatePointsText();
         resetBoard();
     }

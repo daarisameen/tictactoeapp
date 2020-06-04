@@ -1,119 +1,123 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\9cc7e074034dc4239b9d3018f0a73f6d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\7631176566e0ae1aa5c1065989fedfbf\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\b98c0df4a7431477612ae4156d8435f5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\69bc6c2bce923152b5d804b38abbdfc7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\59012ccbbed841d975c498b5f36a3614\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\5d7f36004accfe60ac5b0226e5fb0b3a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\981b7c1a5513f4018393209ef0ee2f12\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\f52d4bb7dfc4f3437ad814c0459dbc99\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\84be4e2f5ca98fe8ddd2fad06f5721c6\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\a477dd92faa78479a57621ebaa32002f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\c97774c0bfe7208dd5c5af00e21481b0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\bab45b2448dee0e8aa3694f976dc8129\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\fa279bcd17e3402fd03b5cbdd96fb9e3\appcompat-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\5b6a00a2676180cfac2988c9b1637b0f\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\af61b47c25cf58e61ca5378440d55752\support-fragment-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\e07979025708f66d79419b396c610d3c\animated-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\8bd2bd76ef850d236ca5029feca1d18c\support-core-ui-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\77e96d3ccbb9e44a356c6bd68add061e\support-core-utils-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\8b87ad02a02486a9d2c05db0a43fff45\support-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\42713a44eae2131946fbd126fa19168a\support-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\92a577ba1cbf7d21b00d35b3ea7a240d\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\ef6843ea5770e504c24b448e1bb8a0a9\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\c06d85bc43379e950603fd5693ef4696\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\0a2bdce0da8cfd5c768a5af1598d6c65\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:5:5-23:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\7631176566e0ae1aa5c1065989fedfbf\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\7631176566e0ae1aa5c1065989fedfbf\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\5b6a00a2676180cfac2988c9b1637b0f\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\5b6a00a2676180cfac2988c9b1637b0f\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:8:9-41
+	android:noHistory
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:6:9-33
 	android:roundIcon
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:7:9-43
-	android:allowBackup
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.android.tictactoe.mainpage
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:12:9-14:20
 	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:12:19-43
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:13:13-17:29
-action#android.intent.action.MAIN
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:14:17-69
-	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:14:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:16:17-77
-	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:12:19-43
 activity#com.example.android.tictactoe.easy
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:19:9-42
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:15:9-42
 	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:19:19-39
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:15:19-39
 activity#com.example.android.tictactoe.hardcore
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:20:9-46
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:16:9-46
 	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:20:19-43
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:16:19-43
 activity#com.example.android.tictactoe.normal
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:21:9-44
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:17:9-44
 	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:21:19-41
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:17:19-41
 activity#com.example.android.tictactoe.human
-ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:22:9-52
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:18:9-52
 	android:name
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml:22:19-40
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:18:19-40
+activity#com.example.android.tictactoe.splash
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:name
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:19:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\9cc7e074034dc4239b9d3018f0a73f6d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\9cc7e074034dc4239b9d3018f0a73f6d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\7631176566e0ae1aa5c1065989fedfbf\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\7631176566e0ae1aa5c1065989fedfbf\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\b98c0df4a7431477612ae4156d8435f5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\b98c0df4a7431477612ae4156d8435f5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\69bc6c2bce923152b5d804b38abbdfc7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\69bc6c2bce923152b5d804b38abbdfc7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\59012ccbbed841d975c498b5f36a3614\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\59012ccbbed841d975c498b5f36a3614\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\5d7f36004accfe60ac5b0226e5fb0b3a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\5d7f36004accfe60ac5b0226e5fb0b3a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\981b7c1a5513f4018393209ef0ee2f12\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\981b7c1a5513f4018393209ef0ee2f12\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\f52d4bb7dfc4f3437ad814c0459dbc99\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\f52d4bb7dfc4f3437ad814c0459dbc99\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\84be4e2f5ca98fe8ddd2fad06f5721c6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\84be4e2f5ca98fe8ddd2fad06f5721c6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\a477dd92faa78479a57621ebaa32002f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\a477dd92faa78479a57621ebaa32002f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\c97774c0bfe7208dd5c5af00e21481b0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\c97774c0bfe7208dd5c5af00e21481b0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\bab45b2448dee0e8aa3694f976dc8129\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jayveer\.gradle\caches\transforms-2\files-2.1\bab45b2448dee0e8aa3694f976dc8129\AndroidManifest.xml:20:5-44
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\fa279bcd17e3402fd03b5cbdd96fb9e3\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\fa279bcd17e3402fd03b5cbdd96fb9e3\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\5b6a00a2676180cfac2988c9b1637b0f\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\5b6a00a2676180cfac2988c9b1637b0f\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\af61b47c25cf58e61ca5378440d55752\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\af61b47c25cf58e61ca5378440d55752\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\e07979025708f66d79419b396c610d3c\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\e07979025708f66d79419b396c610d3c\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\8bd2bd76ef850d236ca5029feca1d18c\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\8bd2bd76ef850d236ca5029feca1d18c\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\77e96d3ccbb9e44a356c6bd68add061e\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\77e96d3ccbb9e44a356c6bd68add061e\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\8b87ad02a02486a9d2c05db0a43fff45\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\8b87ad02a02486a9d2c05db0a43fff45\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\42713a44eae2131946fbd126fa19168a\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\42713a44eae2131946fbd126fa19168a\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\92a577ba1cbf7d21b00d35b3ea7a240d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\92a577ba1cbf7d21b00d35b3ea7a240d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\ef6843ea5770e504c24b448e1bb8a0a9\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\ef6843ea5770e504c24b448e1bb8a0a9\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\c06d85bc43379e950603fd5693ef4696\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\c06d85bc43379e950603fd5693ef4696\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\0a2bdce0da8cfd5c768a5af1598d6c65\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DAARIS AMEEN\.gradle\caches\transforms-2\files-2.1\0a2bdce0da8cfd5c768a5af1598d6c65\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		ADDED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Jayveer Android Files\AndroidStudioProjects\New folder\TicTacToe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DAARIS AMEEN\AndroidStudioProjects\TicTacToe\app\src\main\AndroidManifest.xml

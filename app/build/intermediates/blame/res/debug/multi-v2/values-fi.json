@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projects\\AndroidStudioProjects\\TicTacToe2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Users\\DAARIS AMEEN\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
-                    "source": "D:\\Programs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f3ef9d78d30019eec18954edf975df98\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\DAARIS AMEEN\\.gradle\\caches\\transforms-2\\files-2.1\\42713a44eae2131946fbd126fa19168a\\support-compat-27.1.0\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Programs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b471d4d2447b21255a6568db009bff1e\\res\\values-fi\\values-fi.xml",
+                    "source": "C:\\Users\\DAARIS AMEEN\\.gradle\\caches\\transforms-2\\files-2.1\\fa279bcd17e3402fd03b5cbdd96fb9e3\\appcompat-v7-27.1.0\\res\\values-fi\\values-fi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

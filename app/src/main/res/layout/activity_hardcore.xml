@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FEFEFF"
+    android:background="#FFEB3B"
     tools:context=".hardcore">
 
     <TableLayout
@@ -13,8 +13,8 @@
         android:layout_below="@+id/playerchance"
         android:layout_alignParentStart="true"
         android:layout_gravity="center"
-        android:layout_marginStart="2dp"
-        android:layout_marginTop="2dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="92dp"
         android:padding="70dp">
 
         <TableRow android:background="#D6E6EA">
@@ -206,12 +206,12 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/playerchance"
         android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
         android:layout_marginBottom="-52dp"
-        android:layout_marginStart="50dp"
         android:fontFamily="@font/arielround"
-        android:text="X"
-        android:textColor="#3A98D4"
-        android:textSize="28sp" />
+        android:text="PLayer 1"
+        android:textColor="#EC0C0C"
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/textView3"
@@ -219,10 +219,10 @@
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/textView2"
         android:layout_centerHorizontal="true"
-        android:text="O"
+        android:text="CPU"
         android:fontFamily="@font/arielround"
-        android:textColor="#79CADC"
-        android:textSize="28sp" />
+        android:textColor="#3F51B5"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/button"

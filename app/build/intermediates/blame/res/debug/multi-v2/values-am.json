@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projects\\AndroidStudioProjects\\TicTacToe2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+            "outputFile": "C:\\Users\\DAARIS AMEEN\\AndroidStudioProjects\\TicTacToe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
             "map": [
                 {
-                    "source": "D:\\Programs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b471d4d2447b21255a6568db009bff1e\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,207,306,412,498,601,714,792,870,949,1049,1149,1245,1348,1447,1554,1707,1803",
-                        "endColumns": "101,98,105,85,102,112,77,77,78,99,99,95,102,98,106,152,95,78",
-                        "endOffsets": "202,301,407,493,596,709,787,865,944,1044,1144,1240,1343,1442,1549,1702,1798,1877"
-                    }
-                },
-                {
-                    "source": "D:\\Programs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f3ef9d78d30019eec18954edf975df98\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\DAARIS AMEEN\\.gradle\\caches\\transforms-2\\files-2.1\\42713a44eae2131946fbd126fa19168a\\support-compat-27.1.0\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1882",
                         "endColumns": "100",
                         "endOffsets": "1978"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DAARIS AMEEN\\.gradle\\caches\\transforms-2\\files-2.1\\fa279bcd17e3402fd03b5cbdd96fb9e3\\appcompat-v7-27.1.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,207,306,412,498,601,714,792,870,949,1049,1149,1245,1348,1447,1554,1707,1803",
+                        "endColumns": "101,98,105,85,102,112,77,77,78,99,99,95,102,98,106,152,95,78",
+                        "endOffsets": "202,301,407,493,596,709,787,865,944,1044,1144,1240,1343,1442,1549,1702,1798,1877"
                     }
                 }
             ]

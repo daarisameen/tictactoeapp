@@ -38,6 +38,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/round_buttons"
+
         android:text="           Play with Human           "
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/playwithcomputer"
@@ -67,16 +68,17 @@
         android:id="@+id/normalcomputer"
         android:layout_width="110dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginRight="36dp"
+        android:layout_marginBottom="8dp"
         android:background="@drawable/round_buttons2"
         android:text="Normal"
         android:visibility="invisible"
         app:layout_constraintBottom_toTopOf="@+id/playwithcomputer"
         app:layout_constraintEnd_toStartOf="@+id/hardcorecomputer"
-        app:layout_constraintTop_toBottomOf="@+id/playwithhuman" />
+        app:layout_constraintTop_toBottomOf="@+id/playwithhuman"
+        app:layout_constraintVertical_bias="0.497" />
 
     <Button
         android:id="@+id/hardcorecomputer"
@@ -87,7 +89,7 @@
         android:layout_marginRight="4dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/round_buttons2"
-        android:text="Hardcore"
+        android:text="Hard"
         android:visibility="invisible"
         app:layout_constraintBottom_toTopOf="@+id/playwithcomputer"
         app:layout_constraintEnd_toEndOf="parent"

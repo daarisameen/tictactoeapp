@@ -2,6 +2,7 @@ package com.example.android.tictactoe;
 
 import android.content.Intent;
 import android.graphics.Color;
+import android.media.MediaPlayer;
 import android.nfc.Tag;
 import android.os.Build;
 import android.support.annotation.RequiresApi;
@@ -630,6 +631,9 @@ public class hardcore extends AppCompatActivity  implements View.OnClickListener
     {
         player1Points++;
         Toast.makeText(this, "Player 1 wins!", Toast.LENGTH_SHORT).show();
+
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.win);
+        catSoundMediaPlayer.start();
         updatePointsText();
         resetBoard();
     }
@@ -638,6 +642,9 @@ public class hardcore extends AppCompatActivity  implements View.OnClickListener
     {
         player2Points++;
         Toast.makeText(this, "Computer wins!", Toast.LENGTH_SHORT).show();
+
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.lose);
+        catSoundMediaPlayer.start();
         updatePointsText();
         resetBoard();
     }
@@ -646,6 +653,9 @@ public class hardcore extends AppCompatActivity  implements View.OnClickListener
     {
         draw++;
         Toast.makeText(this, "Draw!", Toast.LENGTH_SHORT).show();
+
+        final MediaPlayer catSoundMediaPlayer = MediaPlayer.create(this, R.raw.draw);
+        catSoundMediaPlayer.start();
         updatePointsText();
         resetBoard();
     }
